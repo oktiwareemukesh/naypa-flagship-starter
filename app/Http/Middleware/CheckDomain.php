@@ -1,0 +1,1 @@
+PASTE THE FULL CheckDomain.php

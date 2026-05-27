@@ -1,0 +1,1 @@
+PASTE THE app.blade.php FULL
